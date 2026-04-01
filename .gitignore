@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Data directories (too large for git)
+sim_dataset/
+videos/
+output/
+test_metadata.csv
+
+# macOS
+.DS_Store
+
+# Claude
+.claude/
