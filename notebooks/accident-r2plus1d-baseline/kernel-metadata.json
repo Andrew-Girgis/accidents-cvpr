@@ -1,0 +1,14 @@
+{
+  "id": "andrewagirgis/accident-r2plus1d-baseline",
+  "title": "Accident R2Plus1D Baseline",
+  "code_file": "accident_r2plus1d_baseline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "competition_sources": ["accident"],
+  "dataset_sources": [],
+  "kernel_sources": []
+}
+

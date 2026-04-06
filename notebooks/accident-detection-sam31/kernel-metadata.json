@@ -1,0 +1,14 @@
+{
+  "id": "andrewagirgis/accident-detection-sam31",
+  "title": "Accident Detection SAM 3.1",
+  "code_file": "accident_detection_sam31.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "competition_sources": ["accident"],
+  "dataset_sources": [],
+  "kernel_sources": []
+}
+

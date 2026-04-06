@@ -5,18 +5,30 @@ build/
 dist/
 wheels/
 *.egg-info
+.ipynb_checkpoints/
 
 # Virtual environments
-.venv
+.venv/
 
 # Data directories (too large for git)
 sim_dataset/
 videos/
-output/
 test_metadata.csv
+
+# Local artifacts and archives
+outputs/
+checkpoints/
+weights/
+submissions/
+archive/
+*.pt
+*.pth
+*.ckpt
+*.zip
 
 # macOS
 .DS_Store
 
-# Claude
+# Local tool state
 .claude/
+.codex
